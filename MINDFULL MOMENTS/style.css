@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+background-image:url("BACK.JPG");
+
+
+}
+
+header {
+	font-family:"calligraffitti";
+	text-shadow:3px 3px 3px DimGrey;
+    background-color: olive;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav {
+    
+    color: white;
+    text-align: center;
+}
+
+nav ul {
+	background-color:green;
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+.home img {
+    display: block;
+    margin: 0 auto;
+    max-width: 60%;
+    height: auto;
+}
